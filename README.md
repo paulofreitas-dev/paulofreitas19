@@ -1,29 +1,31 @@
 # 🧑‍💻 Paulo Freitas
 
-**`Professor de Desenvolvimento de Sistemas`**
+**`Unity/C# Game Developer`**
 
-Salve salve! Seja muito bem-vindo.😎
+Sou desenvolvedor Unity/C# com foco em gameplay 2D, arquitetura modular e sistemas de jogo com boa sensação de controle.
 
-Sou programador de jogos focado em Unity, com projetos voltados à experimentação e estudo técnico.
+Atualmente desenvolvo Stormblade, um beat ’em up 2D com elementos de plataforma para PC/Steam. O projeto funciona como meu campo de batalha técnico: nele estudo, implemento e refino meus sistemas.
 
-Atuo como desenvolvedor indie — não comercial por enquanto — criando mecânicas, sistemas e interações para aprofundar minha expertise em C# aplicado a jogos.
+Também produzo devlogs técnicos sobre o desenvolvimento do Stormblade, mostrando decisões, problemas, soluções e aprendizados do processo real de criação. Meu objetivo é explicar não só o que foi feito, mas por que aquela solução foi escolhida.
 
-Também sou professor de desenvolvimento de sistemas e utilizo o desenvolvimento de jogos como ferramenta para ensinar lógica, estrutura e criatividade aplicada à programação.
+Além de games, tenho base em C#/.NET, desenvolvimento de software, Git e ensino de programação. Essa experiência me ajuda a organizar sistemas, documentar decisões técnicas e transformar ideias complexas em explicações mais claras.
 
-Codificar jogos é meu laboratório. 💻🎮💜
+Busco atuar em projetos onde possa contribuir com gameplay programming, desenvolvimento Unity/C#, arquitetura de sistemas, prototipagem e polimento de mecânicas.
 
 <br/>
 <br/>
 
-Welcome! 😎
+// ENGLISH
 
-I'm a game programmer focused on Unity, with projects focused on experimentation and technical study.
+I am a Unity/C# developer specializing in 2D gameplay, modular architecture, and game systems that prioritize responsive, satisfying controls.
 
-I work as an indie developer—not a commercial developer—creating mechanics, systems, and interactions to deepen my expertise in C# applied to games.
+I am currently developing *Stormblade*, a 2D beat ’em up with platforming elements for PC/Steam. This project serves as my technical proving ground, where I study, implement, and refine my systems.
 
-I also teach systems development and use game development as a tool to teach logic, structure, and creativity applied to programming.
+I also produce technical devlogs for *Stormblade*, showcasing the decisions, challenges, solutions, and lessons learned throughout the actual creation process. My goal is to explain not just what was done, but the reasoning behind the chosen solutions.
 
-Coding games is my laboratory. 💻🎮💜
+Beyond game development, I have a background in C#/.NET, software engineering, Git, and teaching programming. This experience helps me organize systems, document technical decisions, and translate complex ideas into clear explanations.
+
+I am looking to work on projects where I can contribute through gameplay programming, Unity/C# development, system architecture, prototyping, and mechanic polishing.
 <br/>
 <div> 
   <a href="https://www.linkedin.com/in/paulofreitas-dev/"    target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
